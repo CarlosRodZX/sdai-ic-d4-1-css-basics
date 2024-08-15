@@ -1,7 +1,23 @@
 body {
-    background-color: whitesmoke;
+    background-color: #4971b6;
 }
 
 p {
-    color: darkslategray;
+    color: #cbf7b1;
+}
+
+h1 , h2 {
+    color: #2ce819;
+}
+
+a {
+    color: #fff;
+}
+
+nav , ul {
+    color: white;
+}
+
+footer {
+    color: salmon;
 }
