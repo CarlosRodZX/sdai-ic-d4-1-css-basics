@@ -1,0 +1,20 @@
+/*Global Styling*/
+
+body {
+    background-color: black;
+}
+
+/*HTML Tag Styling*/ 
+
+p {
+    color: magenta;
+}
+
+h1 {
+    font-size: 125px;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
